@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\zainw\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\zainw\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\zainw\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\zainw\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\zainw\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\zainw\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\zainw\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\zainw\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\zainw\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\zainw\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem\\migrations\\20241202194709_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\migrations\\20241202194709_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\zainw\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem\\migrations\\20241202195113_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E97BE5-E622-40B4-82FF-D04FF2F3F479}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\migrations\\20241202195113_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Student\\Update.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Views\\Student\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Student\\Update.cshtml",
+              "RelativeToolTip": "SchoolManagementSystem\\Views\\Student\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T20:05:03.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolManagementSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIA5wDsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:58:54.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Models\\Students.cs",
+              "RelativeToolTip": "SchoolManagementSystem\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:44:24.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Program.cs",
+              "RelativeToolTip": "SchoolManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:37:15.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SchoolManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:30:26.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementSystem\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T19:19:29.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\appsettings.json",
+              "RelativeToolTip": "SchoolManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T19:35:24.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SchoolManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T19:50:48.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "SchoolManagementSystem\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T19:48:23.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241202194709_First.cs",
+              "DocumentMoniker": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Migrations\\20241202194709_First.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Migrations\\20241202194709_First.cs",
+              "ToolTip": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Migrations\\20241202194709_First.cs",
+              "RelativeToolTip": "SchoolManagementSystem\\Migrations\\20241202194709_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:47:09.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241202195113_Student.cs",
+              "DocumentMoniker": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Migrations\\20241202195113_Student.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Migrations\\20241202195113_Student.cs",
+              "ToolTip": "C:\\Users\\Zainw\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem\\Migrations\\20241202195113_Student.cs",
+              "RelativeToolTip": "SchoolManagementSystem\\Migrations\\20241202195113_Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:51:13.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

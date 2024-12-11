@@ -1,0 +1,20 @@
+﻿@model SchoolManagementSystem.Models.Students
+<form class="form mt-5" method="post">
+	<div class="mb-3">
+		<label asp-for="Name" class="form-label mt-2">Name</label>
+		<input class="form-control" asp-for="Name" type="text" placeholder="Enter your name" required />
+	</div>
+	<div class="mb-3">
+		<label asp-for="Class" class="form-label mt-2">Class</label>
+		<input class="form-control" asp-for="Class" type="text" placeholder="Enter your class" required />
+	</div>
+	<div class="mb-3">
+		<label asp-for="Marks" class="form-label mt-2">Marks</label>
+		<input class="form-control" asp-for="Marks" type="number" placeholder="Enter your marks" required />
+	</div>
+	<div class="mb-3">
+		<label asp-for="Percentage" class="form-label mt-2">Percentage</label>
+		<input class="form-control" asp-for="Percentage" type="number" placeholder="Enter your percentage" required />
+	</div>
+	<button type="submit" asp-action="Update" class="btn btn-success mt-3">Update</button>
+</form>
