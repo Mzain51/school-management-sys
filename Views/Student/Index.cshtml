@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Students>
+<div style="display:flex; flex-direction:row; align-items:center;" class="mb-4 mt-3">
+<h2>Add New Student</h2>
+<a class="btn-primary btn ms-5" asp-controller="Student" asp-action="Create">Create</a>
+
+</div>
+
+
+<table class="table table-bordered">
+    <thead>
+        <td>Name</td>
+        <td>Class</td>
+        <td>Marks</td>
+        <td>Percentage</td>
+        <td>Action</td>
+    </thead>
+    <tbody>
+        @foreach (var stdata in Model)
+        {
+            <tr>
+                <td>@stdata.Name</td>
+                <td>@stdata.Class</td>
+                <td>@stdata.Marks</td>
+                <td>@stdata.Percentage</td>
+                <td>
+                    <a asp-action="Update" class="btn btn-outline-primary" asp-route-id="@stdata.Id">Update</a>
+                    <a type="button" class="btn btn-outline-danger ms-3" data-bs-toggle="modal" data-bs-target="#modal-@stdata.Id">Delete</a>
+                </td>
+            </tr>
+
+            <div class="modal" id="modal-@stdata.Id">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">Warning!</h4>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                        </div>
+                        <div class="modal-body">
+                            Are you sure you want to delete?
+                        </div>
+                        <div class="modal-footer">
+                            <form method="post" asp-action="Delete" asp-route-id="@stdata.Id">
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                            <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </tbody>
+
+
+
+    
+</table>
+
